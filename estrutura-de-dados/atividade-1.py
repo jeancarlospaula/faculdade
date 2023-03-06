@@ -4,7 +4,6 @@ idade = input('Digite sua idade: ')
 peso = input('Digite seu peso: ')
 altura = input('Digite sua altura: ')
 
-
 print('---------------------')
 print('Nome='+nome)
 print('Sobrenome='+sobrenome)
