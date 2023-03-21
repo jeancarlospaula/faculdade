@@ -1,5 +1,3 @@
-import os
-
 itens = list()
 
 while True:
