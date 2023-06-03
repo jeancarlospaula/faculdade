@@ -11,13 +11,14 @@ class Pilha:
 
     def elementos(self):
         if not self.pilha:
-            print("A pilha não possui elementos.")
+            print("A pilha nao possui elementos.")
         else:
             for elemento in self.pilha:
                 print(elemento)
 
 
 pilha = Pilha()
+pilha.elementos()
 
 pilha.empilhar(10)
 pilha.empilhar(20)
